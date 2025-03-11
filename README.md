@@ -13,8 +13,8 @@ Ensure you have the following installed:
 ### Running the Project
 1. Clone this repository:
    ```sh
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone [<repository-url>](https://github.com/ana3A/OllamaQVector.git)
+   cd OllamaQVector
    ```
 2. Start the services using Docker Compose:
    ```sh
